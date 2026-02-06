@@ -1,0 +1,2 @@
+# Smart-home-automation-using-Access-Point-mode-with-Esp32_s3_Box3
+I developed a Smart Home Automation system using ESP32-S3-BOX-3 as an Access Point and NodeMCU-based nodes for distributed control. The system enables real-time monitoring and device control through web, mobile app, and touchscreen interfaces. It operates on a local WiFi network without internet, ensuring reliability, safety, and modular design.
